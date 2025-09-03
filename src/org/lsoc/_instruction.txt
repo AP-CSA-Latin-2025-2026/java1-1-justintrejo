@@ -6,8 +6,8 @@ Go to the indentifyErrors file,
 1) Open up the file IdentifyErrors
 2) FIX the look of the file with command + shift + f (mac) [Shift + Alt + F  should work on windows]
 3) Run the code an Identify the 4 indentifyErrors and type them below [found in each try-catch]
-  A)
-  B)
-  C)
-  D)
+  A) The first error is a runtime error in the "Hello word" as the statement won't be printed on the same line because it's seperated.
+  B) The second error is a logic error in the star command as it prints out a rectangle instead of a star. 
+  C) The third error is arthmetic error because the math (5/0) isn't done correctly.
+  D) The fourth error is a custom error becasue the code is telling the computer to have an error.
 4)Save and sync changes with github to turn in! 

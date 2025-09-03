@@ -5,6 +5,13 @@
             "name": "IdentifyErrors",
             "request": "launch",
             "mainClass": "IdentifyErrors",
+            "projectName": "java1-1-justintrejo_fcc58cff"
+        },
+        {
+            "type": "java",
+            "name": "IdentifyErrors",
+            "request": "launch",
+            "mainClass": "IdentifyErrors",
             "projectName": "CSA-Template-Source_fc936bb0"
         },
         {
